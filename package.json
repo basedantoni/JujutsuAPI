@@ -1,0 +1,19 @@
+{
+  "name": "jujutsu-kaisen-api",
+  "version": "1.0.0",
+  "description": "GraphQL API for fetching all things Jujutsu Kaisen",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basedantoni/JujutsuAPI.git"
+  },
+  "author": "Anthony Mercado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basedantoni/JujutsuAPI/issues"
+  },
+  "homepage": "https://github.com/basedantoni/JujutsuAPI#readme"
+}
