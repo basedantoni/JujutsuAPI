@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/basedantoni/JujutsuAPI/issues"
   },
-  "homepage": "https://github.com/basedantoni/JujutsuAPI#readme"
+  "homepage": "https://github.com/basedantoni/JujutsuAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
